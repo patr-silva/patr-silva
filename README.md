@@ -18,13 +18,9 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=patr-silva&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=patr-silva&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=patr-silva&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=patr-silva&theme=radical&hide_border=true)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=patr-silva&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=patr-silva&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-# 🤔 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
